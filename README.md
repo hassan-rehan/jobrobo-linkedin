@@ -1,2 +1,1 @@
-# jobrobo-linkedin
-Demo project for Jobrobo
+# linkedin-followers-helper
